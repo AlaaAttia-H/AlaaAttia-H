@@ -1,16 +1,104 @@
-## Hi there 👋
+## Hello there,
 
-<!--
-**AlaaAttia-H/AlaaAttia-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Alaa Ali**,
 
-Here are some ideas to get you started:
+a Master's student in Information Technology (INFOTECH program) at the University of Stuttgart (October 2025 – present).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I took my B.Sc. degree in Mechatronics Engineering from the German University in Cairo (GUC), graduating with honors in 2023.
+
+My academic and project work focuses on Embedded Systems, Robotics, Autonomous Systems and Control Engineering.
+
+---
+
+### Academic Background
+
+**M.Sc. Information Technology – University of Stuttgart**  
+Currently pursuing advanced coursework in systems engineering and software-based technologies.
+
+**B.Sc. Mechatronics Engineering – German University in Cairo (GUC)**  
+Graduated with honors (GPA 1.59 German scale).
+
+Bachelor Project:  
+*Design, Control and Fabrication of a Self-Driving 6-Wheeled Rover for Hazardous Terrain*  
+The project included mechanical design (SolidWorks), control implementation, circuit design, and hardware validation.
+
+---
+
+### Research & Engineering Experience
+
+- Research Intern at ARAtronics Research Center  
+  Worked on locomotion systems and continuum robot control using cloud-based IoT architectures.
+
+- Developed and simulated autonomous systems using ROS1 and Gazebo.
+
+- Designed and implemented embedded systems using AVR microcontrollers and Raspberry Pi.
+
+- Built multi-component hardware-software systems including:
+  - Health-tracking smartwatch (IoT-based emergency system)
+  - Rescue drone with StateFlow-based hybrid modeling
+  - 5-DOF humanoid robot arm
+  - Self-balancing ball and beam system using PID control
+  - PLC-based industrial automation systems
+
+- Published research papers in IEEE conferences related to embedded systems and IoT-based wearable technologies.
+
+---
+
+### Areas of Interest
+
+- Embedded Systems & Firmware Development  
+- Microcontrollers & RTOS  
+- Robotics & Autonomous Systems  
+- Control Theory (Classical and Modern)  
+- Optimization & Reinforcement Learning  
+- Hardware–Software Integration  
+- Reliable Software Engineering Practices  
+
+---
+
+### Technical Experience
+
+**Programming Languages**
+- C / Embedded C
+- Python
+- Java
+- MATLAB
+
+**Embedded & Hardware**
+- AVR Microcontrollers (ATmega series)
+- Raspberry Pi
+- ESP8266
+- PCB Design & Circuit Implementation
+- Sensors & Actuators Integration
+
+**Robotics & Systems**
+- ROS1
+- Gazebo Simulation
+- StateFlow / Simulink
+- Control System Design
+- PID / State-Space / LQR
+
+**Tools**
+- Linux
+- Git
+- SolidWorks
+- Proteus
+- 20-sim
+- PLC (TIA Portal)
+
+---
+
+### Currently Learning
+
+- Advanced software engineering workflows  
+- CI/CD concepts and containerization (Docker)  
+- Improving system-level reliability and testing practices  
+
+---
+
+### Contact
+
+- LinkedIn: *(add link here)*  
+- Email: *(add email here)*  
+
+---
