@@ -16,7 +16,7 @@ My academic and project work focuses on Embedded Systems, Robotics, Autonomous S
 Currently pursuing advanced coursework in systems engineering and software-based technologies.
 
 **B.Sc. Mechatronics Engineering – German University in Cairo (GUC)**  
-Graduated with honors (GPA 1.59 German scale).
+Graduated with honors.
 
 Bachelor Project:  
 *Design, Control and Fabrication of a Self-Driving 6-Wheeled Rover for Hazardous Terrain*  
