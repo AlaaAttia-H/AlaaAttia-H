@@ -13,14 +13,14 @@ My academic and project work focuses on Embedded Systems, Robotics, Autonomous S
 ### Academic Background
 
 **M.Sc. Information Technology – University of Stuttgart**  
-Currently pursuing advanced coursework in systems engineering and software-based technologies.
+Currently pursuing a Master's in Embedded Systems Engineering.
 
 **B.Sc. Mechatronics Engineering – German University in Cairo (GUC)**  
 Graduated with honors.
 
 Bachelor Project:  
 *Design, Control and Fabrication of a Self-Driving 6-Wheeled Rover for Hazardous Terrain*  
-The project included mechanical design (SolidWorks), control implementation, circuit design, and hardware validation.
+The project included mechanical design, control implementation, circuit design, and hardware validation.
 
 ---
 
@@ -28,31 +28,25 @@ The project included mechanical design (SolidWorks), control implementation, cir
 
 - Research Intern at ARAtronics Research Center  
   Worked on locomotion systems and continuum robot control using cloud-based IoT architectures.
-
 - Developed and simulated autonomous systems using ROS1 and Gazebo.
-
 - Designed and implemented embedded systems using AVR microcontrollers and Raspberry Pi.
-
 - Built multi-component hardware-software systems including:
   - Health-tracking smartwatch (IoT-based emergency system)
   - Rescue drone with StateFlow-based hybrid modeling
   - 5-DOF humanoid robot arm
   - Self-balancing ball and beam system using PID control
   - PLC-based industrial automation systems
-
 - Published research papers in IEEE conferences related to embedded systems and IoT-based wearable technologies.
 
 ---
 
 ### Areas of Interest
 
-- Embedded Systems & Firmware Development  
+- Embedded Systems 
 - Microcontrollers & RTOS  
 - Robotics & Autonomous Systems  
-- Control Theory (Classical and Modern)  
-- Optimization & Reinforcement Learning  
+- Control Theory (Classical and Modern)   
 - Hardware–Software Integration  
-- Reliable Software Engineering Practices  
 
 ---
 
