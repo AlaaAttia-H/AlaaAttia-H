@@ -70,7 +70,7 @@ The project included mechanical design, control implementation, circuit design, 
 - Gazebo Simulation
 - StateFlow / Simulink
 - Control System Design
-- PID / State-Space / LQR
+- PID / State-Space
 
 **Tools**
 - Linux
@@ -92,7 +92,6 @@ The project included mechanical design, control implementation, circuit design, 
 
 ### Contact
 
-- LinkedIn: *(add link here)*  
-- Email: *(add email here)*  
+- Email: alaaattia2013@gmail.com 
 
 ---
