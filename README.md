@@ -4,7 +4,7 @@ I am **Alaa Ali**, a Master's student in **Information Technology (INFOTECH)** a
 
 I received my **B.Sc. in Mechatronics Engineering** from the **German University in Cairo (GUC)**, graduating with honors in 2023.
 
-My academic and project work is broadly centered around **embedded systems, robotics, autonomous systems, control engineering, IoT, and real-time systems**. I enjoy working on projects that connect software with physical systems, from microcontroller-based control applications to robotic platforms, sensor-based systems, and networked embedded applications.
+My academic and project work is broadly centered around **embedded systems, robotics, autonomous systems, control engineering, IoT, and real-time systems**. I enjoy working on projects that connect software with physical systems, from microcontroller-based control applications to robotic platforms, sensor-based systems, automotive systems and networked embedded applications.
 
 ---
 
@@ -91,7 +91,6 @@ The project involved mechanical design, control implementation, circuit design, 
 - IoT and Sensor-Based Systems
 - Distributed Systems
 - Hardware–Software Integration
-- Software Reliability and Testing
 
 ---
 
